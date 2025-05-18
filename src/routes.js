@@ -10,7 +10,7 @@ const {
 const routes = [
   {
     method: 'POST',
-    path: '/notes',
+    path: '/',
     handler: indexHandler,
   },
   {
